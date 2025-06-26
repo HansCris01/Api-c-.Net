@@ -1,0 +1,88 @@
+Api crud con c# .NET y SqlServer
+
+
+paso 1:
+
+_ Crear la base de datos y la tabla:
+
+
+---
+CREATE TABLE Productos (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(255) NOT NULL,
+    Precio DECIMAL(8, 2) NOT NULL,
+    Stock INT NOT NULL
+);
+
+
+paso 2:
+
+_ Abrir visual Studio 
+_ Crear un proyecto
+_ Seleccionamos : ASP.NET Core Web API
+_ Colocamos el nombre de nuestra API : APICrudProductos
+_ Buscamos el lugar donde queremos guardar nuestra aplicación
+_ activar el check : colocar la solución y el proyecto en el mismo directorio
+_ No selecciones nada déjalo como está
+_ click en el botón Crear
+
+paso 3:
+
+_ Agregar referencias en Dependencias, click derecho Administrador de Paquetes NuGet...
+
+  Buscamos en : Examinar  
+
+  Microsoft.EntityFrameworkCore.SqlServer   --> le das instalar
+  Microsoft.EntityFrameworkCore.Tools --> le das instalar
+
+_ Crear el paquete: Models y creas el archivo dentro de models llamado: Producto.cs --> guiate del codigo
+  Crear el archivo DbContext.cs --> guiate del codigo
+
+_ Crear el paquete: Controllers y dentro de ese paquete crear el archivo: ProductoController.cs --> guiate del codigo
+
+_ modificar el archivo appsettings.json --> guiate del archivo de conexion
+_ modificar Program.cs --> Ahí esta el codigo de cors
+
+
+
+Cuando ejecutes el codigo selecciona el https
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
