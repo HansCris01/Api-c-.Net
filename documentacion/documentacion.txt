@@ -44,8 +44,10 @@ _ modificar el archivo appsettings.json --> guiate del archivo de conexion
 _ modificar Program.cs --> Ahí esta el codigo de cors
 
 
+Recuerda agregar el CORS en el Nuget
 
-Cuando ejecutes el codigo selecciona el https
+
+Cuando ejecutes el codigo selecciona el http
 
 
 

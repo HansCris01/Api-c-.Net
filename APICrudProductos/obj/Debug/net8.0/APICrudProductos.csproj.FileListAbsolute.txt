@@ -154,6 +154,7 @@ C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresaria
 C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\APICrudProductos.csproj.CoreCompileInputs.cache
 C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\APICrudProductos.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\APICrudProductos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\APICrudProductos.sourcelink.json
 C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\hansl\Documents\Trabajo\Especialización\Desarrollo Software Empresarial\Api c# .Net\backend\APICrudProductos\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

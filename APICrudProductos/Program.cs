@@ -1,6 +1,5 @@
 // Program.cs
 using Microsoft.EntityFrameworkCore;
-using APICrudProductos.Models; // Asegúrate de que el namespace sea correcto
 
 // Program.cs
 
@@ -18,10 +17,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 // Configurar CORS
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowSpecificOrigin",
+    options.AddPolicy("AllowAll",
         builder =>
         {
-            builder.WithOrigins("http://localhost:4200", "https://tupaginaweb.com") // Reemplaza con el origen(es) de tu página web
+            builder.AllowAnyOrigin() // Reemplaza con el origen(es) de tu página web
                    .AllowAnyHeader()
                    .AllowAnyMethod();
             // .AllowCredentials(); // Descomenta si necesitas enviar credenciales (cookies, auth headers)
@@ -42,7 +41,7 @@ app.UseHttpsRedirection();
 
 app.UseRouting(); // Importante: UseRouting debe ir antes de UseCors
 
-app.UseCors("AllowSpecificOrigin"); // Aplica la política CORS
+app.UseCors("AllowAll"); // Aplica la política CORS
 
 app.UseAuthorization();
 
