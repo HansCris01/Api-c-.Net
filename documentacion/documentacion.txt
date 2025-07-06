@@ -34,6 +34,7 @@ _ Agregar referencias en Dependencias, click derecho Administrador de Paquetes N
 
   Microsoft.EntityFrameworkCore.SqlServer   --> le das instalar
   Microsoft.EntityFrameworkCore.Tools --> le das instalar
+  Microsoft.AspNetCore.Cors --> le das instalar
 
 _ Crear el paquete: Models y creas el archivo dentro de models llamado: Producto.cs --> guiate del codigo
   Crear el archivo DbContext.cs --> guiate del codigo

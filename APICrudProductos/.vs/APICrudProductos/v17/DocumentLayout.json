@@ -50,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:57:39.109Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -132,6 +119,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:57:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:57:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\Models\\Producto.cs",
@@ -141,19 +154,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T02:40:14.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Desarrollo Software Empresarial\\Api c# .Net\\backend\\APICrudProductos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:57:47.02Z",
               "EditorCaption": ""
             },
             {

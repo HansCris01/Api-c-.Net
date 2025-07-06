@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APICrudProductos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b1136c5c7bfef5752c7f680a3804c1f4abcae3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e0fca02dceb4a4bca6bcdfa118bd8935e445c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("APICrudProductos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APICrudProductos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
